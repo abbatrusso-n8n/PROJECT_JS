@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3 \"C:/Users/abbat/.stitch-mcp/config/credentials.db\" \"SELECT account_id FROM credentials;\")"
+    ]
+  }
+}
